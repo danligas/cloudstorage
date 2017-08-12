@@ -1,4 +1,4 @@
-#Login (Authenticate)
-#Pick Folder
+# Login (Authenticate)
+# Pick Folder
 Create Folder
 Add metadata.json file
